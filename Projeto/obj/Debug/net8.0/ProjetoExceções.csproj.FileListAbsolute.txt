@@ -1,0 +1,14 @@
+E:\Programção C#\ProjetoExceções\bin\Debug\net8.0\ProjetoExceções.exe
+E:\Programção C#\ProjetoExceções\bin\Debug\net8.0\ProjetoExceções.deps.json
+E:\Programção C#\ProjetoExceções\bin\Debug\net8.0\ProjetoExceções.runtimeconfig.json
+E:\Programção C#\ProjetoExceções\bin\Debug\net8.0\ProjetoExceções.dll
+E:\Programção C#\ProjetoExceções\bin\Debug\net8.0\ProjetoExceções.pdb
+E:\Programção C#\ProjetoExceções\obj\Debug\net8.0\ProjetoExceções.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programção C#\ProjetoExceções\obj\Debug\net8.0\ProjetoExceções.AssemblyInfoInputs.cache
+E:\Programção C#\ProjetoExceções\obj\Debug\net8.0\ProjetoExceções.AssemblyInfo.cs
+E:\Programção C#\ProjetoExceções\obj\Debug\net8.0\ProjetoExceções.csproj.CoreCompileInputs.cache
+E:\Programção C#\ProjetoExceções\obj\Debug\net8.0\ProjetoExceções.dll
+E:\Programção C#\ProjetoExceções\obj\Debug\net8.0\refint\ProjetoExceções.dll
+E:\Programção C#\ProjetoExceções\obj\Debug\net8.0\ProjetoExceções.pdb
+E:\Programção C#\ProjetoExceções\obj\Debug\net8.0\ProjetoExceções.genruntimeconfig.cache
+E:\Programção C#\ProjetoExceções\obj\Debug\net8.0\ref\ProjetoExceções.dll
